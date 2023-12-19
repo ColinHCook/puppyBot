@@ -1,0 +1,1 @@
+A small python program that sends romantic quotes and a picture of a dog to a specificed number using Twilio API and The Dog API. Feel free to use whatever quotes you like from any website but I have over 100 in quotes.txt for sample use.
